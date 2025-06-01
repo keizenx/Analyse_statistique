@@ -1,5 +1,20 @@
 # Analyse Statistique par Échantillonnage
 
+## Visualisations
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="population_totale.png" alt="Population Totale" width="400"/></td>
+      <td><img src="echantillon.png" alt="Échantillon" width="400"/></td>
+    </tr>
+    <tr>
+      <td><img src="intervalle_confiance.png" alt="Intervalle de Confiance" width="400"/></td>
+      <td><img src="comparaison_distributions.png" alt="Comparaison des Distributions" width="400"/></td>
+    </tr>
+  </table>
+</div>
+
 Ce projet illustre les concepts fondamentaux de statistique: échantillonnage, estimation, intervalle de confiance et test d'hypothèse.
 
 ## Description
